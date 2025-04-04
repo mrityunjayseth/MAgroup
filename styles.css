@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap");
-
+@media only screen and (min-width: 300px) {
+  
+}
 *{
 margin:0%;
 padding:0%;
